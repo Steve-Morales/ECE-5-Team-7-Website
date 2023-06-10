@@ -1,15 +1,23 @@
 {
   "files": {
     "main.css": "/ECE-5-Team-7-Website/static/css/main.44ce4be3.css",
-    "main.js": "/ECE-5-Team-7-Website/static/js/main.5b5e4c52.js",
+    "main.js": "/ECE-5-Team-7-Website/static/js/main.8661183d.js",
     "static/js/787.28cb0dcd.chunk.js": "/ECE-5-Team-7-Website/static/js/787.28cb0dcd.chunk.js",
+    "static/media/ece5_poster.png": "/ECE-5-Team-7-Website/static/media/ece5_poster.49a7ee8e7249a0b29338.png",
+    "static/media/line_follow.mp4": "/ECE-5-Team-7-Website/static/media/line_follow.89fbc76f32fc0bfe254c.mp4",
+    "static/media/final_track.mp4": "/ECE-5-Team-7-Website/static/media/final_track.4c4b80c55b9d889bb68b.mp4",
+    "static/media/pid_system.png": "/ECE-5-Team-7-Website/static/media/pid_system.fbaec8f07360fe454520.png",
+    "static/media/Final_Robot.png": "/ECE-5-Team-7-Website/static/media/Final_Robot.f762736dd0639ac0b28e.png",
+    "static/media/challenge_2.jpg": "/ECE-5-Team-7-Website/static/media/challenge_2.1a0770828ead59b93342.jpg",
+    "static/media/profile_pic.jpg": "/ECE-5-Team-7-Website/static/media/profile_pic.b6afa8fbaed690f353e5.jpg",
+    "static/media/team_pic.jpg": "/ECE-5-Team-7-Website/static/media/team_pic.ff1fb2dc5ea89ff1ed45.jpg",
     "index.html": "/ECE-5-Team-7-Website/index.html",
     "main.44ce4be3.css.map": "/ECE-5-Team-7-Website/static/css/main.44ce4be3.css.map",
-    "main.5b5e4c52.js.map": "/ECE-5-Team-7-Website/static/js/main.5b5e4c52.js.map",
+    "main.8661183d.js.map": "/ECE-5-Team-7-Website/static/js/main.8661183d.js.map",
     "787.28cb0dcd.chunk.js.map": "/ECE-5-Team-7-Website/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44ce4be3.css",
-    "static/js/main.5b5e4c52.js"
+    "static/js/main.8661183d.js"
   ]
 }
